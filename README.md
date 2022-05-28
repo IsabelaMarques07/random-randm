@@ -1,16 +1,23 @@
-# checkpoint3
+# 🔫 Random RandM
 
-A new Flutter project.
+Aplicação que apresenta personagens aleatórias da série Rick And Morty criada para estudo do uso de ChangeNotifier.
 
-## Getting Started
+### 🛠 Tecnologias utilizadas:
+* Flutter
+* The Rick And Morty API (https://rickandmortyapi.com/)
 
-This project is a starting point for a Flutter application.
+### 📱 Tela
+<p>
+  <img src="https://user-images.githubusercontent.com/61291155/170830563-d9046551-79c1-4f14-b0fe-dc776865826c.gif" width="200px">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Como rodar o projeto
+1. Clone o projeto 
+```
+git clone https://github.com/IsabelaMarques07/random-randm.git
+```
+2. Rode o projeto
+Dentro da pasta do projeto rode o seguinte comando
+```
+flutter run
+```
