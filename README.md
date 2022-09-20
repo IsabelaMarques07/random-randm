@@ -16,8 +16,8 @@ Aplicação que apresenta personagens aleatórias da série Rick And Morty criad
 ```
 git clone https://github.com/IsabelaMarques07/random-randm.git
 ```
-2. Rode o projeto
-Dentro da pasta do projeto rode o seguinte comando
+2. Dentro da pasta do projeto rode o seguinte comando
+
 ```
 flutter run
 ```
